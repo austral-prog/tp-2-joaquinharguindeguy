@@ -6,3 +6,4 @@ def ada():
     print (full_name.title())
     print (full_name.upper())
     print (f'\t{full_name.lower()}')
+
