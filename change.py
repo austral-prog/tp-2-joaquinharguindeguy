@@ -5,5 +5,5 @@ def change():
     pesos = int(vuelto)
     centavos = (vuelto-pesos)
     centavos = int(centavos*100)
-    print (f'Ingresar gasto\n{expense}\nDinero recibido\n{money}\n\nVuelto\n\nPesos:\n{pesos}\nCentavos:\n{centavos}')
+    print (f'Ingresar gasto:\n{expense}\nDinero recibido\n{money}\n\nVuelto\n\nPesos:\n{pesos}\nCentavos:\n{centavos}')
 
